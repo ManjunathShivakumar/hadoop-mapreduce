@@ -1,5 +1,4 @@
-# HelloMapReduce
+# hadoop-mapreduce
 
-## Apache Hadoop Maven word count example
+*1. Apache Hadoop Maven word count example:* Import this project into IntelliJ IDEA and start cranking MapReduce jobs
 
-Import this project into IntelliJ IDEA and start cranking MapReduce jobs.
