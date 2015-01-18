@@ -1,4 +1,4 @@
-package in.thirumal.hadoop;
+package in.thirumal.hadoop.wordcount;
 
 import java.io.IOException;
 import java.util.StringTokenizer;
