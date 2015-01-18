@@ -97,6 +97,22 @@
       <url>http://repo.hortonworks.com/content/repositories/releases/</url>
       <layout>default</layout>
     </repository>
+    <repository>
+      <releases>
+        <enabled>true</enabled>
+        <updatePolicy>always</updatePolicy>
+        <checksumPolicy>warn</checksumPolicy>
+      </releases>
+      <snapshots>
+        <enabled>false</enabled>
+        <updatePolicy>never</updatePolicy>
+        <checksumPolicy>fail</checksumPolicy>
+      </snapshots>
+      <id>JettyHadoop</id>
+      <name>Jetty Hadoop</name>
+      <url>http://repo.hortonworks.com/content/repositories/jetty-hadoop/</url>
+      <layout>default</layout>
+    </repository>
   </repositories>
 
 </project>
