@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: in.thirumal.hadoop.WordCount
+Main-Class: in.thirumal.hadoop.wordcount.WordCount
 
